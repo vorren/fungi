@@ -2,6 +2,7 @@
 
 mod fungus;
 mod settings;
+mod sim;
 mod terrain;
 
 fn main() {
